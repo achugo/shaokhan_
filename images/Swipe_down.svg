@@ -1,0 +1,7 @@
+<svg id="Component_16_1" data-name="Component 16 – 1" xmlns="http://www.w3.org/2000/svg" width="111.5" height="20" viewBox="0 0 111.5 20">
+  <text id="Swipe_down" data-name="Swipe down" transform="translate(0 16)" fill="#fff" font-size="15" font-family="OpenSans-Semibold, Open Sans" font-weight="600" opacity="0.497"><tspan x="0" y="0">Swipe down</tspan></text>
+  <g id="Component_3_54" data-name="Component 3 – 54" transform="translate(94.5 3)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="8.5" cy="8.5" r="8.5" fill="#fff" opacity="0.5"/>
+    <path id="Polygon_1" data-name="Polygon 1" d="M3.5,0,7,5H0Z" transform="translate(12 12) rotate(180)" fill="#fff"/>
+  </g>
+</svg>

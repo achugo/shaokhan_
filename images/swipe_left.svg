@@ -1,0 +1,7 @@
+<svg id="Component_15_5" data-name="Component 15 – 5" xmlns="http://www.w3.org/2000/svg" width="79" height="15" viewBox="0 0 79 15">
+  <text id="Swipe_right" data-name="Swipe right" transform="translate(0 12)" fill="#fff" font-size="11" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="0">Swipe right</tspan></text>
+  <g id="Group_641" data-name="Group 641" transform="translate(65.691 2.048)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="6.5" cy="6.5" r="6.5" transform="translate(0.309 -0.048)" fill="#fff" opacity="0.5"/>
+    <path id="Polygon_1" data-name="Polygon 1" d="M2.5,0,5,3H0Z" transform="translate(8.309 3.952) rotate(90)" fill="#fff"/>
+  </g>
+</svg>
